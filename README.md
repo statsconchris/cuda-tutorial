@@ -29,3 +29,5 @@ Compile your code:
 Run your code:
 
 `./gpu_specs.out`
+
+`gpu_specs.cpp` does not exist in this repo. You can use any hello-world code. For a proper example refer to the subdirectory `julia`
