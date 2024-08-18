@@ -2,8 +2,8 @@
 
 Access your node:
 
-`import module nvidia`
-`nvcc --version`
+- `import module nvidia`
+- `nvcc --version`
 
 Verify that nvcc is installed.
 
