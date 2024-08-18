@@ -9,6 +9,6 @@ Verify that nvcc is installed.
 
 Compile the code:
 
-- `nvcc -o julia_gpu.out julia_gpu.cu  -lGLEW -lglut -lGLU -lGL`
+- `nvcc -o julia_gpu.out julia_gpu.cu -lglut -lGL`
 
 If you are in a cluster and need permission to access a GPU, then, e.g., create an interactive job (OpenGL should be installed to see the graphics) and run the code, e.g., `./julia_gpu.out`
